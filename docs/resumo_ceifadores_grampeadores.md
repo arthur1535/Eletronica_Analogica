@@ -27,6 +27,9 @@
     - Polarizado: deslocamento ajustado pela fonte auxiliar
   - Aplicações: redefinição de nível DC, multiplicadores de tensão
 
+## Mapa mental (imagem gerada em Python)
+![Mapa mental de ceifadores e grampeadores](img/mapa_mental_ceifadores_grampeadores.svg)
+
 ## Exemplos do livro (Cap. 2)
 - **Exemplo 2.18**: ceifador em série com fonte de polarização; a forma de onda triangular de entrada é traçada até o ponto em que a soma com a fonte faz o diodo conduzir, fixando um patamar de saída e alterando o valor médio.
 - **Exemplo 2.19**: ceifador em paralelo submetido a sinal quadrado; a saída é grampeada ao nível de referência quando o diodo conduz e segue a entrada quando o diodo está aberto, definindo limites assimétricos para os semiciclos.
